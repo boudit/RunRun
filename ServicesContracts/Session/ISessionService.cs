@@ -15,7 +15,7 @@ namespace ServicesContracts.Session
 
     public interface ISessionService
     {
-        Session Create(Player player);
+        Session Create();
 
         void Delete(Session session);
 

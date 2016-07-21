@@ -67,5 +67,10 @@ namespace Services.Session
 
             return this.sessionRepository.Get(guid);
         }
+
+        public void AddInSession(Session session, Guid playerGuid)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

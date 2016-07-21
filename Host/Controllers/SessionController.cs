@@ -81,8 +81,6 @@ namespace Host.Controllers
             result.Link = this.linkFactory.Create(
                 this.ControllerContext.ControllerDescriptor.ControllerName,
                 session.Guid);
-
-            return result;
         }
     }
 }
