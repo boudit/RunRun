@@ -1,6 +1,6 @@
 ﻿//  --------------------------------------------------------------------------------------------------------------------
-//  <copyright file="WebSocketBroadcasterRepository.cs" company="Company">
-//    Copyright (c) Eurofins. All rights reserved.
+//  <copyright file="WebSocketBroadcasterRepository.cs" Company="Company">
+//    Copyright (c) Company. All rights reserved.
 //  </copyright>
 //  --------------------------------------------------------------------------------------------------------------------
 namespace Host.Communicator
@@ -8,7 +8,7 @@ namespace Host.Communicator
     using System;
     using System.Collections.Concurrent;
 
-    using Entities;
+    using DalContracts.Entities;
 
     using Shared.Extensions;
     using Shared.Serializers;

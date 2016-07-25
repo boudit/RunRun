@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Player.cs" company="Company">
+// <copyright file="Player.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // <summary>

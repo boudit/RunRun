@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IPositionRepository.cs" company="Company">
+// <copyright file="IPositionRepository.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------

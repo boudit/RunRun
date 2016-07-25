@@ -1,6 +1,6 @@
 ﻿////  --------------------------------------------------------------------------------------------------------------------
-////  <copyright file="BinarySerializerTests.cs" company="Eurofins">
-////    Copyright (c) Eurofins. All rights reserved.
+////  <copyright file="BinarySerializerTests.cs" Company="Company">
+////    Copyright (c) Company. All rights reserved.
 ////  </copyright>
 ////  --------------------------------------------------------------------------------------------------------------------
 //namespace Shared.Tests.Serializers

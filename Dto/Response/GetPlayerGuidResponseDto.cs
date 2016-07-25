@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="GetPlayerGuidResponseDto.cs" company="Company">
+// <copyright file="GetPlayerGuidResponseDto.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------

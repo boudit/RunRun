@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="PositionRepository.cs" company="Company">
+// <copyright file="PositionRepository.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
@@ -10,9 +10,8 @@ namespace Dal.Session
     using System.Collections.Generic;
     using System.Linq;
 
+    using DalContracts.Entities;
     using DalContracts.Session;
-
-    using Entities;
 
     public class PositionRepository : IPositionRepository
     {

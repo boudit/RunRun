@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="WebSocketCommunicator.cs" company="company">
+// <copyright file="WebSocketCommunicator.cs" Company="Company">
 //   
 // </copyright>
 // <summary>
@@ -14,8 +14,8 @@ namespace Host.Communicator
     using System.Threading;
     using System.Threading.Tasks;
 
-    using Entities;
-
+    using DalContracts.Entities;
+    
     /// <summary>
     /// The web socket communicator.
     /// </summary>

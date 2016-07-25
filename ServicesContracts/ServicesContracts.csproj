@@ -48,9 +48,9 @@
     <None Include="Settings.StyleCop" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entities\Entities.csproj">
-      <Project>{F0B30223-1573-4F6D-AE80-EF8107300017}</Project>
-      <Name>Entities</Name>
+    <ProjectReference Include="..\DalContracts\DalContracts.csproj">
+      <Project>{32cbb324-c3b9-42d8-9049-b4a1d9908e0a}</Project>
+      <Name>DalContracts</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

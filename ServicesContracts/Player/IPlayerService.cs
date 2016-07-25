@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IPlayerService.cs" company="Company">
+// <copyright file="IPlayerService.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
@@ -8,7 +8,7 @@ namespace ServicesContracts.Player
 {
     using System;
 
-    using Entities;
+    using DalContracts.Entities;
 
     public interface IPlayerService
     {

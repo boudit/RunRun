@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="WebSocketBroadcaster.cs" company="">
+// <copyright file="WebSocketBroadcaster.cs" Company="">
 //   
 // </copyright>
 // <summary>
@@ -17,11 +17,11 @@ namespace Host.Communicator
     using System.Threading;
     using System.Threading.Tasks;
 
+    using DalContracts.Entities;
+
     using Dto.Response;
     using Dto.Send;
-
-    using Entities;
-
+    
     using Shared.Serializers;
 
     /// <summary>

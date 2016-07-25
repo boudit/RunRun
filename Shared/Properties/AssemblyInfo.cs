@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Shared")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Eurofins")]
+[assembly: AssemblyCompany("Company")]
 [assembly: AssemblyProduct("Shared")]
-[assembly: AssemblyCopyright("Copyright © Eurofins 2016")]
+[assembly: AssemblyCopyright("Copyright © Company 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

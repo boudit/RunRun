@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="SessionRepository.cs" company="Company">
+// <copyright file="SessionRepository.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // <summary>
@@ -12,9 +12,8 @@ namespace Dal.Session
     using System;
     using System.Collections.Concurrent;
 
+    using DalContracts.Entities;
     using DalContracts.Session;
-
-    using Entities;
 
     using Shared.Extensions;
 

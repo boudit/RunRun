@@ -1,6 +1,6 @@
 ﻿//  --------------------------------------------------------------------------------------------------------------------
-//  <copyright file="IPlayerRepository.cs" company="Company">
-//    Copyright (c) Eurofins. All rights reserved.
+//  <copyright file="IPlayerRepository.cs" Company="Company">
+//    Copyright (c) Company. All rights reserved.
 //  </copyright>
 //  --------------------------------------------------------------------------------------------------------------------
 namespace DalContracts.Player

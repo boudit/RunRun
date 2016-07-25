@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="SessionController.cs" company="">
+// <copyright file="SessionController.cs" Company="">
 //   
 // </copyright>
 // <summary>
@@ -12,10 +12,10 @@ namespace Host.Controllers
     using System;
     using System.Web.Http;
 
+    using DalContracts.Entities;
+
     using Dto.Entities;
-
-    using Entities;
-
+    
     using Host.Communicator;
     using Host.Mappers;
 

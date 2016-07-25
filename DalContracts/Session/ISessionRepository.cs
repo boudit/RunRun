@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="ISessionRepository.cs" company="Company">
+// <copyright file="ISessionRepository.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------

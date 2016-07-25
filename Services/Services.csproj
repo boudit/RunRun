@@ -53,12 +53,8 @@
       <Name>DalContracts</Name>
     </ProjectReference>
     <ProjectReference Include="..\Dal\Dal.csproj">
-      <Project>{1FC98BE5-B9C5-4CB4-BDAF-12E84CD35D50}</Project>
+      <Project>{1fc98be5-b9c5-4cb4-bdaf-12e84cd35d50}</Project>
       <Name>Dal</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Entities\Entities.csproj">
-      <Project>{F0B30223-1573-4F6D-AE80-EF8107300017}</Project>
-      <Name>Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\ServicesContracts\ServicesContracts.csproj">
       <Project>{490FE932-F4ED-4F76-AED8-B851F91AA80B}</Project>

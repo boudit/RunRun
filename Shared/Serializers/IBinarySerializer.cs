@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IBinarySerializer.cs" company="Company">
+// <copyright file="IBinarySerializer.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // <summary>

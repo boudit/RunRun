@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------------------------------------------------
-// <copyright file="PlayerService.cs" company="Company">
+// <copyright file="PlayerService.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // <summary>
@@ -10,11 +10,9 @@
 namespace Services.Player
 {
     using System;
-    using System.Collections.Concurrent;
 
+    using DalContracts.Entities;
     using DalContracts.Player;
-
-    using Entities;
 
     using ServicesContracts.Player;
 

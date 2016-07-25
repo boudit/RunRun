@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="ISessionService.cs" company="Company">
+// <copyright file="ISessionService.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // <summary>
@@ -11,7 +11,7 @@ namespace ServicesContracts.Session
 {
     using System;
 
-    using Entities;
+    using DalContracts.Entities;
 
     public interface ISessionService
     {

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="SessionService.cs" company="Company">
+// <copyright file="SessionService.cs" Company="Company">
 //   Copyright (c) Company. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ namespace Services.Session
     using Dal.Session;
 
     using DalContracts;
+    using DalContracts.Entities;
     using DalContracts.Session;
-
-    using Entities;
 
     using Services.Player;
 
