@@ -5,6 +5,7 @@
 //  --------------------------------------------------------------------------------------------------------------------
 namespace Dal.Authentication
 {
+    using System;
     using System.Threading.Tasks;
 
     using DalContracts.Authentication;

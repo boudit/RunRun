@@ -42,6 +42,21 @@ namespace Host.Controllers
             return errorResult ?? this.Ok();
         }
 
+        /*
+         * To test the register :
+            POST http://localhost:4242/api/account/register HTTP/1.1
+            User-Agent: Fiddler
+            Host: localhost:4242
+            Content-Length: 92
+            Accept: application/json
+
+            {
+              "userName": "Taiseer",
+              "password": "SuperPass",
+              "confirmPassword": "SuperPass"
+            }
+         */
+
         protected override void Dispose(bool disposing)
         {
             if (disposing)

@@ -5,6 +5,7 @@
 //  --------------------------------------------------------------------------------------------------------------------
 namespace Dal.Authentication
 {
+    using System;
     using System.Data.Entity;
 
     using Microsoft.AspNet.Identity;
@@ -12,9 +13,12 @@ namespace Dal.Authentication
 
     public class UserManager : UserManager<IdentityUser>
     {
+        private readonly DbContext context;
+
         public UserManager(DbContext context)
             : base(new UserStore<IdentityUser>(context))
         {
+            this.context = context;
         }
     }
 }
