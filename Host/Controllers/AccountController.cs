@@ -44,17 +44,18 @@ namespace Host.Controllers
 
         /*
          * To test the register :
-            POST http://localhost:4242/api/account/register HTTP/1.1
-            User-Agent: Fiddler
-            Host: localhost:4242
-            Content-Length: 92
-            Accept: application/json
+POST https://localhost:4242/api/account/register HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:4242
+Content-Length: 92
+Accept: application/json
+Content-Type: application/json
 
-            {
-              "userName": "Taiseer",
-              "password": "SuperPass",
-              "confirmPassword": "SuperPass"
-            }
+{
+    "userName": "Taiseer",
+    "password": "SuperPass",
+    "confirmPassword": "SuperPass"
+}
          */
 
         protected override void Dispose(bool disposing)

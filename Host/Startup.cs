@@ -49,18 +49,14 @@ namespace Host
 
         /*
          * To test the Token Generation :
-            POST https://localhost:4242/api/account/register HTTP/1.1
-            User-Agent: Fiddler
-            Host: localhost:4242
-            Content-Length: 92
-            Accept: application/json
-            Content-Type: application/json
+POST http://localhost:4242/token HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:4242
+Content-Length: 55
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
 
-            {
-              "userName": "Taiseer",
-              "password": "SuperPass",
-              "confirmPassword": "SuperPass"
-            }
+grant_type=password&username=Taiseer&password=SuperPass
          * 
          */
     }
